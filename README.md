@@ -38,7 +38,7 @@ Actualmente estoy en búsqueda de nuevas metas profesionales y aspiro a formar p
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=white">
 </div>
 <div>
-  <img src=" https://img.shields.io/badge/Oracle-FC0202?style=flat&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-FC0202?style=flat&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/IBM-DB2-15A70C?style=flat&logo=db2&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-0081CB?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-3F629D?style=flat&logo=sqlite&logoColor=white">
