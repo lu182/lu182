@@ -4,9 +4,6 @@
 Me recibí de la carrera Técnica Superior en Programación en la UTN. Mis primeros pasos en el mundo IT fueron como Desarrolladora Java & PL/SQL para la Web de Rentas de la Provincia de Córdoba y como Java Software Developer para una empresa de salud.
 Actualmente estoy en búsqueda de nuevas metas profesionales y aspiro a formar parte de un equipo en el que pueda seguir formandome, aplicando mis conocimientos e incorporando experiencia.
 
-### 🎓 Actualmente realizando el curso de:
-- Spring Boot en Codo a Codo.
-
 
 ### 🛠️ Poseo conocimientos
 <div>
